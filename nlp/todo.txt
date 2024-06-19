@@ -1,0 +1,15 @@
+#LLM大模型
+ #Claude
+ #OpenAI
+ #Perplexity
+#故事书角色和对话识别
+#句子相似度分析
+ #语义相似度
+ #文本相似度
+#词性分析
+#文本实体分析和识别
+#中文NER Model https://github.com/topics/named-entity-recognition:
+    #Davlan/distilbert-base-multilingual-cased-ner-hrl
+    #Davlan/xlm-roberta-base-ner-hrl
+    #gyr66/bert-base-chinese-finetuned-ner
+    #ckiplab/albert-base-chinese-ner

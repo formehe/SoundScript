@@ -1,0 +1,11 @@
+
+# pip install --upgrade --no-deps --force-reinstall git+https://github.com/linto-ai/whisper-timestamped
+# pip install pymysql
+# pip install mysql-connector-python
+# python3 -m pip install --upgrade pip
+
+1、install mysql database
+   apt install mysql-server
+2、config the database
+   database's name is audiobook
+   table's name is audios
